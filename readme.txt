@@ -6,8 +6,10 @@ py -3.10 -m venv venv
 venv\Scripts\activate
 python -m pip install --upgrade pip
 pip install -r req.txt
-python data_new.py
-
+python alphabets.py 
+#فوق موجودين الاحرف الي رح تعملوهم في حال ما فهمتو بالانجليزي 
+لما تخلصي كل الاحرف 
+python numbers.py 
 📌 Important Notes
 ----------------------------------------
 - When the camera window opens, you will see yourself.
