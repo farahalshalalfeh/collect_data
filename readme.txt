@@ -7,7 +7,6 @@ venv\Scripts\activate
 python -m pip install --upgrade pip
 pip install -r req.txt
 python alphabets.py 
-#فوق موجودين الاحرف الي رح تعملوهم في حال ما فهمتو بالانجليزي 
 لما تخلصي كل الاحرف 
 python numbers.py 
 📌 Important Notes
@@ -17,4 +16,5 @@ python numbers.py
 - Press SPACE to pause.
 - Press ENTER again to continue.
 - Press Q to quit completely.
+
 - Do not close the camera window manually. Always press Q.
